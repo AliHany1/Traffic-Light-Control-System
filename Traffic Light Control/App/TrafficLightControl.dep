@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>218486636</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\SysTick_Timer.o</file>
+      <file>$TOOLKIT_DIR$\config\linker\TexasInstruments\TM4C123GH6.icf</file>
+      <file>$PROJ_DIR$\Timer0.c</file>
+      <file>C:\ti\TivaWare_C_Series-2.2.0.295\driverlib\gpio.h</file>
+      <file>$PROJ_DIR$\SysTick_Timer.h</file>
+      <file>C:\Users\User\Downloads\TrafficLightsTivaC-master\bitwise_operation.h</file>
+      <file>C:\Users\User\Downloads\TrafficLightsTivaC-master\Timers.h</file>
+      <file>$PROJ_DIR$\STD_types.h</file>
+      <file>$PROJ_DIR$\DioInit.h</file>
+      <file>$PROJ_DIR$\DIO.c</file>
+      <file>$PROJ_DIR$\Timers.h</file>
+      <file>$PROJ_DIR$\bitwise_operation.h</file>
+      <file>$PROJ_DIR$\main.c</file>
+      <file>$PROJ_DIR$\Timers.c</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$PROJ_DIR$\DIO.h</file>
+      <file>$PROJ_DIR$\SysTick_Timer.c</file>
+      <file>$PROJ_DIR$\cstartup_M.c</file>
+      <file>$PROJ_DIR$\DioInit.c</file>
+      <file>$PROJ_DIR$\tm4c123gh6pm.h</file>
+      <file>$PROJ_DIR$\Timer0.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$TOOLKIT_DIR$\lib\dl7M_tln.a</file>
+      <file>$PROJ_DIR$\Debug\Obj\Timers.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\cstartup_M.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\DIO.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\DioInit.pbi</file>
+      <file>C:\Users\User\Downloads\TrafficLightsTivaC-master\types.h</file>
+      <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+      <file>C:\Users\User\Downloads\TrafficLightsTivaC-master\Timers.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\DioInit.o</file>
+      <file>C:\Users\User\Downloads\TrafficLightsTivaC-master\DioInit.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\SysTick_Timer.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\cstartup_M.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\Timers.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\TrafficLightControl.pbd</file>
+      <file>C:\ti\TivaWare_C_Series-2.2.0.295\driverlib\ewarm\Exe\driverlib.a</file>
+      <file>C:\ti\TivaWare_C_Series-2.2.0.295\driverlib\sysctl.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\Timer0.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\DIO.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>C:\Users\User\Downloads\TrafficLightsTivaC-master\tm4c123gh6pm.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>C:\ti\TivaWare_C_Series-2.2.0.295\inc\hw_memmap.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+      <file>$TOOLKIT_DIR$\lib\m7M_tlv.a</file>
+      <file>C:\ti\TivaWare_C_Series-2.2.0.295\driverlib\timer.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdbool.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\Timer0.o</file>
+      <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+      <file>$PROJ_DIR$\Debug\Exe\c.out</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\Timer0.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 52</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 41</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 0 37 15 43 55 45 22 25 51 40 46 49 21 20 8</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 0 37 15 43 55 45 22 25 51 40 46 49 21 20 8</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\DIO.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 27</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 42</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 12 20 16 8</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 12 20 16 8</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\main.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 47</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 50</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 9 16 8 12 11 0 37 15 43 55 45 22 25 20 5 51 40 46 4 49</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 9 16 8 12 11 0 37 15 43 55 45 22 25 20 5 51 40 46 4 49</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Timers.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 36</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 24</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 0 37 15 43 55 45 22 25 51 40 46 49 11 20 8</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 0 37 15 43 55 45 22 25 51 40 46 49 11 20 8</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\SysTick_Timer.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 1</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 34</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 20 5 8</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 20 5 8</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\cstartup_M.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 26</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 35</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\DioInit.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 32</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 9 16 8 12 20 0 37 15 43 55 45 22 25 51 40 46 4 49</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 9 16 8 12 20 0 37 15 43 55 45 22 25 51 40 46 4 49</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 54</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>C:\Users\User\Downloads\TrafficLightsTivaC-master\Timers.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 36</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 24</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 0 37 15 43 55 45 22 25 51 40 46 49 7 44 29 6</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>C:\Users\User\Downloads\TrafficLightsTivaC-master\DioInit.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 6 0 37 15 43 55 45 22 25 51 40 46 4 49</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\c.out</name>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 2 26 27 32 47 1 36 39 30 53 48 23</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>ILINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+
